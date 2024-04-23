@@ -1,5 +1,15 @@
-
-
 h2{
     color: red;
+    text-shadow: 8px 8px 8px rgba(0,0,0,0.6);
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    border-top: 10px double #ff6550;
+border-bottom: 10px double #ff6550;
+}
+
+h3{
+    color: purple;
 }

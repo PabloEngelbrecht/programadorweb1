@@ -4,6 +4,7 @@ h2{
     text-align: center;
     text-transform: uppercase;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
 }
 img {
     border-top: 10px double #ff6550;
@@ -12,4 +13,10 @@ border-bottom: 10px double #ff6550;
 
 h3{
     color: purple;
+}
+ul{
+    background-color: aquamarine;
+}
+ol{
+    background-color: aquamarine;
 }
